@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_purple">#5856D6</color>
+    <color name="light_bg">#F1F4FF</color>
+    <color name="grey_text">#8E8E93</color>
+    <color name="read_more_blue">#4A68FF</color>
+    <color name="app_background">#F8F9FE</color>
+    <color name="rating_yellow">#FFC107</color>
+    <color name="heart_red">#FF3B30</color>
+</resources>
