@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#4A56E2</color>
+    <color name="primary_dark">#3A45C2</color>
+    <color name="primary_light">#6B75F0</color>
+    <color name="background">#F8F9FE</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="search_background">#F0F1F6</color>
+    <color name="text_primary">#1A1D2E</color>
+    <color name="text_secondary">#6E7191</color>
+    <color name="text_hint">#A0A3BD</color>
+    <color name="tag_outline">#D9DBE9</color>
+    <color name="tag_filled_bg">#1A1D2E</color>
+    <color name="tag_filled_text">#FFFFFF</color>
+    <color name="icon_bg_red">#FFE0E0</color>
+    <color name="icon_bg_blue">#E0E7FF</color>
+    <color name="icon_bg_orange">#FFE8D6</color>
+    <color name="icon_bg_green">#D6F5E0</color>
+    <color name="icon_bg_purple">#EDE0FF</color>
+    <color name="icon_fg_red">#E53935</color>
+    <color name="icon_fg_blue">#4A56E2</color>
+    <color name="icon_fg_orange">#F57C00</color>
+    <color name="icon_fg_green">#43A047</color>
+    <color name="icon_fg_purple">#7E57C2</color>
+    <color name="badge_new_bg">#E8EAFF</color>
+    <color name="badge_new_text">#4A56E2</color>
+    <color name="divider">#EFF0F6</color>
+    <color name="completed_overlay">#80FFFFFF</color>
+</resources>
